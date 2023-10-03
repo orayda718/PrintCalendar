@@ -1,7 +1,7 @@
 /* 
 * Name: Orayda Shagifa
-* Purpose: Lab 3 Part 2, Prints a one-month calendar. The user specifies the number 
-* of days in the month and the day of the week on which the months begins 
+* Purpose: Prints a one-month calendar. The user specifies the number 
+* of days in the month and the day of the week on which the month begins 
 */
 
 #include <stdio.h>
